@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRreportsExample", "CRreportsExample\CRreportsExample.csproj", "{C2CB7221-9921-4258-BE32-84B2F70A3E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CB7221-9921-4258-BE32-84B2F70A3E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CB7221-9921-4258-BE32-84B2F70A3E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CB7221-9921-4258-BE32-84B2F70A3E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CB7221-9921-4258-BE32-84B2F70A3E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E978BC6A-9A6D-40F7-9097-B5590871904B}
+	EndGlobalSection
+EndGlobal
